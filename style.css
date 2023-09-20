@@ -29,7 +29,8 @@ body {
   padding: 1vmax;
  display: flex;
  justify-content: space-between;
-/* background-color: #ddedea; */
+  z-index:99999;
+background-color: white;
 
 }
 .unorder{
