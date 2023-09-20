@@ -301,10 +301,10 @@ font-family: 'Playfair Display', serif;
  
   .skillpercent{
     height: 60%;
-    width: 60%;
-     background-color: rgb(183, 183, 183);
+    width: 55%;
+    
     margin-top: 280px;
-    margin-left: -30%;
+    margin-left: 10%;
   }
  .design{
   height: 30%;
@@ -362,9 +362,9 @@ font-family: 'Playfair Display', serif;
 .illustrate{
   height: 80%;
   width: 40%;
-  margin-left: 10%;
+  margin-left: 5%;
   margin-top: 5%;
- background-color: black;
+ 
 }
 .illustrate>img{
   height: 100%;
