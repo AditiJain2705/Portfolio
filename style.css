@@ -301,10 +301,10 @@ font-family: 'Playfair Display', serif;
  
   .skillpercent{
     height: 60%;
-    width: 55%;
+    width: 60%;
     
     margin-top: 280px;
-    margin-left: 10%;
+    margin-left: -50%;
   }
  .design{
   height: 30%;
